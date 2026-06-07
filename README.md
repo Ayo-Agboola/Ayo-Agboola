@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ayomide Agboola 👋
 
-<!--
-**Ayo-Agboola/Ayo-Agboola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Analyst with experience in banking, 
+financial reporting, customer data analysis,
+and business performance monitoring.
 
-Here are some ideas to get you started:
+## Skills
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Business Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+📊 Healthcare Cabinet Access Simulation (SQL)
+
+📊 Emergency Response Analysis
+
+📊 American Media Hub Performance Dashboard
+
+📊 Python Data Cleaning and Wrangling
+
+## Currently Learning
+- Advanced SQL
+- Python for Data Analysis
+- Data Engineering Fundamentals
+
+## Connect With Me
+LinkedIn: linkedin.com/in/ayomide-e-agboola
