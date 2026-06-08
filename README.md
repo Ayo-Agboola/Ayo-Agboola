@@ -24,8 +24,6 @@ and business performance monitoring.
 📊 Python Data Cleaning and Wrangling
 
 ## Currently Learning
-- Advanced SQL
-- Python for Data Analysis
 - Data Engineering Fundamentals
 
 ## Connect With Me
