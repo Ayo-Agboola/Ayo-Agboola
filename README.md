@@ -13,6 +13,7 @@ and business performance monitoring.
 - Data Cleaning
 - Data Visualization
 - Business Analysis
+- Reporting
 
 ## Projects
 📊 Healthcare Cabinet Access Simulation (SQL)
