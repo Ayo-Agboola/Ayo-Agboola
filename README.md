@@ -25,7 +25,7 @@ and business performance monitoring.
 📊 Python Data Cleaning and Wrangling
 
 ## Currently Learning
-- Data Engineering Fundamentals
+- Cloud Security & DevOps
 
 ## Connect With Me
 LinkedIn: linkedin.com/in/ayomide-e-agboola
