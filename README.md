@@ -1,4 +1,4 @@
-# Hi, I'm Ayomide Agboola 👋
+# Hi, I'm Ayomide Emmanuel Agboola 👋
 
 ## About Me
 I am a Data Analyst with experience in banking, 
