@@ -16,6 +16,8 @@ and business performance monitoring.
 - Reporting
 
 ## Projects
+📊 Personal Finance Tracker (EXCEL VBA)
+
 📊 Healthcare Cabinet Access Simulation (SQL)
 
 📊 Emergency Response Analysis
