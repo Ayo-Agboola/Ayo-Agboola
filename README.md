@@ -1,22 +1,34 @@
 # Hi, I'm Ayomide Emmanuel Agboola 👋
 
 ## About Me
-I am a Data Analyst with experience in banking, 
-financial reporting, customer data analysis,
-and business performance monitoring.
+
+I am an Operations Analyst with experience in business operations, data analysis, process improvement, and cloud computing. I enjoy solving business problems with data, streamlining operational processes, and building practical technology solutions using modern cloud infrastructure.
 
 ## Skills
+
 - Microsoft Excel
 - SQL
 - Power BI
 - Python
+- HTML & CSS
+- AWS (EC2, VPC, Security Groups)
+- Linux (Ubuntu)
+- Nginx
+- DNS Configuration
+- SSL/TLS (Let's Encrypt)
 - Data Cleaning
 - Data Visualization
 - Business Analysis
+- Process Improvement
 - Reporting
 
 ## Projects
-📊 Personal Finance Tracker (EXCEL VBA)
+
+📊 Job Application Tracker (Excel VBA)
+
+🌐 Portfolio Website Hosted on AWS
+
+📊 Personal Finance Tracker (Excel VBA)
 
 📊 Healthcare Cabinet Access Simulation (SQL)
 
@@ -27,7 +39,11 @@ and business performance monitoring.
 📊 Python Data Cleaning and Wrangling
 
 ## Currently Learning
-- Cloud Security & DevOps
+
+- AWS Cloud Computing
+- Cloud Security
+- DevOps
 
 ## Connect With Me
-LinkedIn: linkedin.com/in/ayomide-e-agboola
+
+💼 LinkedIn: https://linkedin.com/in/ayomide-e-agboola
